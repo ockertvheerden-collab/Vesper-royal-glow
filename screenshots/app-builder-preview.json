@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vesper",
+      "hasCanvas": false,
+      "bodyTextLen": 332,
+      "bodyTextHash": "914ab1bf03fecc588621e3fdda03d3623171fce530a4e2090921ce0e74aad746",
+      "bodyTextPrefix": "Vesper GATHERING THE CIRCLE Vesper THE LAST CIRCLE OF NAMES Orbi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vesper",
+      "hasCanvas": false,
+      "bodyTextLen": 68,
+      "bodyTextHash": "a7e190c4ae5cb80b461f6a4a42069b1508fd495ecccb0b99e6b573b3837be0a7",
+      "bodyTextPrefix": "Vesper GATHERING THE CIRCLE Vesper THE LAST CIRCLE OF NAMES FEAT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
